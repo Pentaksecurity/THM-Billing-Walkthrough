@@ -62,7 +62,7 @@ After that you can navigate to the home directory > magnus > find the user.txt >
 
 ![userflag1](https://github.com/user-attachments/assets/3d0f08d7-f415-41ed-a9f7-a0255efb2deb)
 
-# Privelage Escalation
+# Privilage Escalation
 
 So let's run 'sudo -l' to see what kind of sudo permissions we have.
 
